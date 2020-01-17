@@ -50,7 +50,6 @@
         text-align: center;
         color: #505050;
     }
-
     .loginRem {
         text-align: left;
         margin: 0px 0px 15px 0px;
